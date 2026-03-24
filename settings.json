@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SakuraSchoolRP.aternos.me:57106",
+    "ip": "SakuraSchoolRP.aternos.me",
     "port": 57106,
     "version": "",
     "try-creative": false
